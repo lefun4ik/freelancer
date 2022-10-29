@@ -210,8 +210,12 @@ body.lock {
 .hero-wave {
   position: absolute;
   z-index: -1;
-  bottom: -50%;
+  bottom: -49.7%;
   right: 0;
+  height: 881px;
+}
+.hero-wave svg {
+  height: 881px;
 }
 @media (max-width: 1439.98px) {
   .hero-wave {
