@@ -1048,7 +1048,7 @@ body.lock {
   font-size: 14px;
   line-height: 114%;
   color: #070707;
-  background: url("/img/icons/pricing/mark.svg") 0 0 no-repeat;
+  background: url("../img/icons/pricing/mark.svg") 0 0 no-repeat;
 }
 .pricing-list__service-item:not(:last-child) {
   margin-bottom: 16px;
